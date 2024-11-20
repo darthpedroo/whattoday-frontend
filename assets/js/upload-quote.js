@@ -40,7 +40,7 @@ document.getElementById('post-form').addEventListener('submit', async (e) => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${jwt}`, // Include token with Bearer
+        'Authorization': `${jwt}`, // Include token with Bearer
       },
       body: JSON.stringify({ text: content }),
     });
