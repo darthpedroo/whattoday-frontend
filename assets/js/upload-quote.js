@@ -44,7 +44,7 @@ document.getElementById('post-form').addEventListener('submit', async (e) => {
       },
       body: JSON.stringify({ text: content }),
     });
-
+    console.log("jwt", jwt)
     const data = await response.json();
 
     if (data.error) {
