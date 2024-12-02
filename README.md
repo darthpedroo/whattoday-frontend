@@ -5,13 +5,13 @@ Whattoday es una aplicación para subir posts sobre lo que hiciste en el día co
 
 Para crear un post tenes que tener un usuario pero si no iniciaste sesión podés ver los posteos del resto de la gente.
 
-Este es el repositorio del frontend simplemente, ya que de este modo lo puedo hostear en [github pages](!https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+Este es el repositorio del frontend simplemente, ya que de este modo lo puedo hostear en [github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
-El código del backend de esta aplicaicón se encuentra [aca](!https://github.com/darthpedroo/whattoday)
+El código del backend de esta aplicaicón se encuentra [aca](https://github.com/darthpedroo/whattoday)
 
 
 ## Demo
-Una demo de la aplicación se encuentra [aca](!https://darthpedroo.github.io/whattoday-frontend/index.html)
+Una demo de la aplicación se encuentra [aca](https://darthpedroo.github.io/whattoday-frontend/index.html)
 
  
 ## Instalación
